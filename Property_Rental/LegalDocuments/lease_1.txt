@@ -1,0 +1,6 @@
+Legal Document for Lease ID: 1
+Property ID: 1
+Tenant ID: 1
+Start Date: 12-03-2025 16:57:21
+End Date: 12-03-2025 16:57:21
+Status: Pending

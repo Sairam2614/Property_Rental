@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\0b9ee832-ad5d-4506-b678-e89f122f921e.jpg",
+      "PackagePath": "staticwebassets\\images\\0b9ee832-ad5d-4506-b678-e89f122f921e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\0e6d7004-274c-44d4-8bee-842aff458268.jpg",
+      "PackagePath": "staticwebassets\\images\\0e6d7004-274c-44d4-8bee-842aff458268.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\102e8aaf-6e2f-44ba-95aa-f78e931883f5.jpg",
+      "PackagePath": "staticwebassets\\images\\102e8aaf-6e2f-44ba-95aa-f78e931883f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\6595d499-552a-4c15-b28b-f3bee59fc311.jpg",
+      "PackagePath": "staticwebassets\\images\\6595d499-552a-4c15-b28b-f3bee59fc311.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\a592949a-68e7-44e4-81b7-b62837f9248f.jpg",
+      "PackagePath": "staticwebassets\\images\\a592949a-68e7-44e4-81b7-b62837f9248f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\0cc8a739-e2ac-4218-8bfd-87eea2ebecd8.mp4",
+      "PackagePath": "staticwebassets\\videos\\0cc8a739-e2ac-4218-8bfd-87eea2ebecd8.mp4"
+    },
+    {
+      "Id": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\109e387a-9b97-44ab-aec2-a91323daef77.mp4",
+      "PackagePath": "staticwebassets\\videos\\109e387a-9b97-44ab-aec2-a91323daef77.mp4"
+    },
+    {
+      "Id": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\16900c05-1825-4479-a1b2-75c012f3f6b4.mp4",
+      "PackagePath": "staticwebassets\\videos\\16900c05-1825-4479-a1b2-75c012f3f6b4.mp4"
+    },
+    {
+      "Id": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\38c57115-223c-4071-b54a-092667c80dd7.mp4",
+      "PackagePath": "staticwebassets\\videos\\38c57115-223c-4071-b54a-092667c80dd7.mp4"
+    },
+    {
+      "Id": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\7820d144-4139-491f-a750-ab03d557b2bc.mp4",
+      "PackagePath": "staticwebassets\\videos\\7820d144-4139-491f-a750-ab03d557b2bc.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineRentalPropertyManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineRentalPropertyManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineRentalPropertyManagement.props",
+      "PackagePath": "build\\OnlineRentalPropertyManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineRentalPropertyManagement.props",
+      "PackagePath": "buildMultiTargeting\\OnlineRentalPropertyManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineRentalPropertyManagement.props",
+      "PackagePath": "buildTransitive\\OnlineRentalPropertyManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

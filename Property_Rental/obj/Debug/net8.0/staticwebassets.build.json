@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "Hash": "QUrs7qVwdFU+D4h0JU8KfoGhOcwjDUcMpdtu2aJl0wQ=",
+  "Source": "OnlineRentalPropertyManagement",
+  "BasePath": "_content/OnlineRentalPropertyManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineRentalPropertyManagement\\wwwroot",
+      "Source": "OnlineRentalPropertyManagement",
+      "ContentRoot": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\",
+      "BasePath": "_content/OnlineRentalPropertyManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\0b9ee832-ad5d-4506-b678-e89f122f921e.jpg",
+      "SourceId": "OnlineRentalPropertyManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\",
+      "BasePath": "_content/OnlineRentalPropertyManagement",
+      "RelativePath": "images/0b9ee832-ad5d-4506-b678-e89f122f921e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x49lvgqzoi",
+      "Integrity": "f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\0b9ee832-ad5d-4506-b678-e89f122f921e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\0e6d7004-274c-44d4-8bee-842aff458268.jpg",
+      "SourceId": "OnlineRentalPropertyManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\",
+      "BasePath": "_content/OnlineRentalPropertyManagement",
+      "RelativePath": "images/0e6d7004-274c-44d4-8bee-842aff458268#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x49lvgqzoi",
+      "Integrity": "f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\0e6d7004-274c-44d4-8bee-842aff458268.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\102e8aaf-6e2f-44ba-95aa-f78e931883f5.jpg",
+      "SourceId": "OnlineRentalPropertyManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\",
+      "BasePath": "_content/OnlineRentalPropertyManagement",
+      "RelativePath": "images/102e8aaf-6e2f-44ba-95aa-f78e931883f5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x49lvgqzoi",
+      "Integrity": "f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\102e8aaf-6e2f-44ba-95aa-f78e931883f5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\6595d499-552a-4c15-b28b-f3bee59fc311.jpg",
+      "SourceId": "OnlineRentalPropertyManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\",
+      "BasePath": "_content/OnlineRentalPropertyManagement",
+      "RelativePath": "images/6595d499-552a-4c15-b28b-f3bee59fc311#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x49lvgqzoi",
+      "Integrity": "f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6595d499-552a-4c15-b28b-f3bee59fc311.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\a592949a-68e7-44e4-81b7-b62837f9248f.jpg",
+      "SourceId": "OnlineRentalPropertyManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\",
+      "BasePath": "_content/OnlineRentalPropertyManagement",
+      "RelativePath": "images/a592949a-68e7-44e4-81b7-b62837f9248f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x49lvgqzoi",
+      "Integrity": "f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a592949a-68e7-44e4-81b7-b62837f9248f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\0cc8a739-e2ac-4218-8bfd-87eea2ebecd8.mp4",
+      "SourceId": "OnlineRentalPropertyManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\",
+      "BasePath": "_content/OnlineRentalPropertyManagement",
+      "RelativePath": "videos/0cc8a739-e2ac-4218-8bfd-87eea2ebecd8#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nmmwi85ld8",
+      "Integrity": "jzxNG3t/n3Mg9VwS0WUqP7UlH6NTWA9jT++tv5ubZcE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\0cc8a739-e2ac-4218-8bfd-87eea2ebecd8.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\109e387a-9b97-44ab-aec2-a91323daef77.mp4",
+      "SourceId": "OnlineRentalPropertyManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\",
+      "BasePath": "_content/OnlineRentalPropertyManagement",
+      "RelativePath": "videos/109e387a-9b97-44ab-aec2-a91323daef77#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wivfvnca6q",
+      "Integrity": "qDcEh6breu34jZ2dqv+KKoUGQYsLLYP8oXRTjO5ZxZg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\109e387a-9b97-44ab-aec2-a91323daef77.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\16900c05-1825-4479-a1b2-75c012f3f6b4.mp4",
+      "SourceId": "OnlineRentalPropertyManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\",
+      "BasePath": "_content/OnlineRentalPropertyManagement",
+      "RelativePath": "videos/16900c05-1825-4479-a1b2-75c012f3f6b4#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fu7imt623v",
+      "Integrity": "yb0E59bYc/nHRO/1lWeBvueaZB9x+ussjGscvhfk7Ik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\16900c05-1825-4479-a1b2-75c012f3f6b4.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\38c57115-223c-4071-b54a-092667c80dd7.mp4",
+      "SourceId": "OnlineRentalPropertyManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\",
+      "BasePath": "_content/OnlineRentalPropertyManagement",
+      "RelativePath": "videos/38c57115-223c-4071-b54a-092667c80dd7#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fu7imt623v",
+      "Integrity": "yb0E59bYc/nHRO/1lWeBvueaZB9x+ussjGscvhfk7Ik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\38c57115-223c-4071-b54a-092667c80dd7.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\7820d144-4139-491f-a750-ab03d557b2bc.mp4",
+      "SourceId": "OnlineRentalPropertyManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\",
+      "BasePath": "_content/OnlineRentalPropertyManagement",
+      "RelativePath": "videos/7820d144-4139-491f-a750-ab03d557b2bc#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wivfvnca6q",
+      "Integrity": "qDcEh6breu34jZ2dqv+KKoUGQYsLLYP8oXRTjO5ZxZg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\7820d144-4139-491f-a750-ab03d557b2bc.mp4"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/0b9ee832-ad5d-4506-b678-e89f122f921e.jpg",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\0b9ee832-ad5d-4506-b678-e89f122f921e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 20:39:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4="
+        }
+      ]
+    },
+    {
+      "Route": "images/0b9ee832-ad5d-4506-b678-e89f122f921e.x49lvgqzoi.jpg",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\0b9ee832-ad5d-4506-b678-e89f122f921e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 20:39:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49lvgqzoi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/0b9ee832-ad5d-4506-b678-e89f122f921e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4="
+        }
+      ]
+    },
+    {
+      "Route": "images/0e6d7004-274c-44d4-8bee-842aff458268.jpg",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\0e6d7004-274c-44d4-8bee-842aff458268.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 22:59:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4="
+        }
+      ]
+    },
+    {
+      "Route": "images/0e6d7004-274c-44d4-8bee-842aff458268.x49lvgqzoi.jpg",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\0e6d7004-274c-44d4-8bee-842aff458268.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 22:59:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49lvgqzoi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/0e6d7004-274c-44d4-8bee-842aff458268.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4="
+        }
+      ]
+    },
+    {
+      "Route": "images/102e8aaf-6e2f-44ba-95aa-f78e931883f5.jpg",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\102e8aaf-6e2f-44ba-95aa-f78e931883f5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 19:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4="
+        }
+      ]
+    },
+    {
+      "Route": "images/102e8aaf-6e2f-44ba-95aa-f78e931883f5.x49lvgqzoi.jpg",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\102e8aaf-6e2f-44ba-95aa-f78e931883f5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 19:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49lvgqzoi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/102e8aaf-6e2f-44ba-95aa-f78e931883f5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4="
+        }
+      ]
+    },
+    {
+      "Route": "images/6595d499-552a-4c15-b28b-f3bee59fc311.jpg",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\6595d499-552a-4c15-b28b-f3bee59fc311.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:50:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4="
+        }
+      ]
+    },
+    {
+      "Route": "images/6595d499-552a-4c15-b28b-f3bee59fc311.x49lvgqzoi.jpg",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\6595d499-552a-4c15-b28b-f3bee59fc311.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:50:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49lvgqzoi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6595d499-552a-4c15-b28b-f3bee59fc311.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4="
+        }
+      ]
+    },
+    {
+      "Route": "images/a592949a-68e7-44e4-81b7-b62837f9248f.jpg",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\a592949a-68e7-44e4-81b7-b62837f9248f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 16:51:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4="
+        }
+      ]
+    },
+    {
+      "Route": "images/a592949a-68e7-44e4-81b7-b62837f9248f.x49lvgqzoi.jpg",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\images\\a592949a-68e7-44e4-81b7-b62837f9248f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 16:51:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49lvgqzoi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/a592949a-68e7-44e4-81b7-b62837f9248f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/xkVp6i9OIUkEUVY4yTm/NJjfLeKuFWOJT+3YLav4="
+        }
+      ]
+    },
+    {
+      "Route": "videos/0cc8a739-e2ac-4218-8bfd-87eea2ebecd8.mp4",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\0cc8a739-e2ac-4218-8bfd-87eea2ebecd8.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6761872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jzxNG3t/n3Mg9VwS0WUqP7UlH6NTWA9jT++tv5ubZcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 19:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jzxNG3t/n3Mg9VwS0WUqP7UlH6NTWA9jT++tv5ubZcE="
+        }
+      ]
+    },
+    {
+      "Route": "videos/0cc8a739-e2ac-4218-8bfd-87eea2ebecd8.nmmwi85ld8.mp4",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\0cc8a739-e2ac-4218-8bfd-87eea2ebecd8.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6761872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jzxNG3t/n3Mg9VwS0WUqP7UlH6NTWA9jT++tv5ubZcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 19:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nmmwi85ld8"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/0cc8a739-e2ac-4218-8bfd-87eea2ebecd8.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jzxNG3t/n3Mg9VwS0WUqP7UlH6NTWA9jT++tv5ubZcE="
+        }
+      ]
+    },
+    {
+      "Route": "videos/109e387a-9b97-44ab-aec2-a91323daef77.mp4",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\109e387a-9b97-44ab-aec2-a91323daef77.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25878074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qDcEh6breu34jZ2dqv+KKoUGQYsLLYP8oXRTjO5ZxZg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 22:59:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDcEh6breu34jZ2dqv+KKoUGQYsLLYP8oXRTjO5ZxZg="
+        }
+      ]
+    },
+    {
+      "Route": "videos/109e387a-9b97-44ab-aec2-a91323daef77.wivfvnca6q.mp4",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\109e387a-9b97-44ab-aec2-a91323daef77.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25878074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qDcEh6breu34jZ2dqv+KKoUGQYsLLYP8oXRTjO5ZxZg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 22:59:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wivfvnca6q"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/109e387a-9b97-44ab-aec2-a91323daef77.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDcEh6breu34jZ2dqv+KKoUGQYsLLYP8oXRTjO5ZxZg="
+        }
+      ]
+    },
+    {
+      "Route": "videos/16900c05-1825-4479-a1b2-75c012f3f6b4.fu7imt623v.mp4",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\16900c05-1825-4479-a1b2-75c012f3f6b4.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6261574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yb0E59bYc/nHRO/1lWeBvueaZB9x+ussjGscvhfk7Ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 16:51:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fu7imt623v"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/16900c05-1825-4479-a1b2-75c012f3f6b4.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yb0E59bYc/nHRO/1lWeBvueaZB9x+ussjGscvhfk7Ik="
+        }
+      ]
+    },
+    {
+      "Route": "videos/16900c05-1825-4479-a1b2-75c012f3f6b4.mp4",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\16900c05-1825-4479-a1b2-75c012f3f6b4.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6261574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yb0E59bYc/nHRO/1lWeBvueaZB9x+ussjGscvhfk7Ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 16:51:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yb0E59bYc/nHRO/1lWeBvueaZB9x+ussjGscvhfk7Ik="
+        }
+      ]
+    },
+    {
+      "Route": "videos/38c57115-223c-4071-b54a-092667c80dd7.fu7imt623v.mp4",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\38c57115-223c-4071-b54a-092667c80dd7.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6261574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yb0E59bYc/nHRO/1lWeBvueaZB9x+ussjGscvhfk7Ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:50:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fu7imt623v"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/38c57115-223c-4071-b54a-092667c80dd7.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yb0E59bYc/nHRO/1lWeBvueaZB9x+ussjGscvhfk7Ik="
+        }
+      ]
+    },
+    {
+      "Route": "videos/38c57115-223c-4071-b54a-092667c80dd7.mp4",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\38c57115-223c-4071-b54a-092667c80dd7.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6261574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yb0E59bYc/nHRO/1lWeBvueaZB9x+ussjGscvhfk7Ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:50:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yb0E59bYc/nHRO/1lWeBvueaZB9x+ussjGscvhfk7Ik="
+        }
+      ]
+    },
+    {
+      "Route": "videos/7820d144-4139-491f-a750-ab03d557b2bc.mp4",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\7820d144-4139-491f-a750-ab03d557b2bc.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25878074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qDcEh6breu34jZ2dqv+KKoUGQYsLLYP8oXRTjO5ZxZg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 20:39:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDcEh6breu34jZ2dqv+KKoUGQYsLLYP8oXRTjO5ZxZg="
+        }
+      ]
+    },
+    {
+      "Route": "videos/7820d144-4139-491f-a750-ab03d557b2bc.wivfvnca6q.mp4",
+      "AssetFile": "C:\\Users\\GRACY\\source\\repos\\Property_Rental\\Property_Rental\\wwwroot\\videos\\7820d144-4139-491f-a750-ab03d557b2bc.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25878074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qDcEh6breu34jZ2dqv+KKoUGQYsLLYP8oXRTjO5ZxZg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 20:39:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wivfvnca6q"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/7820d144-4139-491f-a750-ab03d557b2bc.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDcEh6breu34jZ2dqv+KKoUGQYsLLYP8oXRTjO5ZxZg="
+        }
+      ]
+    }
+  ]
+}

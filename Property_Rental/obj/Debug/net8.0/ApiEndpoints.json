@@ -1,0 +1,824 @@
+[
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.LeaseAgreementController",
+    "Method": "CreateLeaseAgreement",
+    "RelativePath": "api/LeaseAgreement",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leaseAgreementDTO",
+        "Type": "LeaseAgreementDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.LeaseAgreementController",
+    "Method": "GetLeaseAgreement",
+    "RelativePath": "api/LeaseAgreement/{leaseID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leaseID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.LeaseAgreementController",
+    "Method": "GetLegalDocument",
+    "RelativePath": "api/LeaseAgreement/{leaseID}/document",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leaseID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.LeaseAgreementController",
+    "Method": "ExecuteLease",
+    "RelativePath": "api/LeaseAgreement/{leaseID}/execute",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leaseID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.LeaseAgreementController",
+    "Method": "AddOwnerDocuments",
+    "RelativePath": "api/LeaseAgreement/{leaseID}/owner",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leaseID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "OnlineRentalPropertyManagement.Models.OwnerDocumentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.MaintenanceRequestController",
+    "Method": "GetMaintenanceRequests",
+    "RelativePath": "api/maintenance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OnlineRentalPropertyManagement.Models.MaintenanceRequest, OnlineRentalPropertyManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.MaintenanceRequestController",
+    "Method": "PostMaintenanceRequest",
+    "RelativePath": "api/maintenance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "maintenanceRequest",
+        "Type": "OnlineRentalPropertyManagement.Models.MaintenanceRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnlineRentalPropertyManagement.Models.MaintenanceRequest",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.MaintenanceRequestController",
+    "Method": "GetMaintenanceRequest",
+    "RelativePath": "api/maintenance/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnlineRentalPropertyManagement.Models.MaintenanceRequest",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.MaintenanceRequestController",
+    "Method": "PutMaintenanceRequest",
+    "RelativePath": "api/maintenance/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "maintenanceRequest",
+        "Type": "OnlineRentalPropertyManagement.Models.MaintenanceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.MaintenanceRequestController",
+    "Method": "DeleteMaintenanceRequest",
+    "RelativePath": "api/maintenance/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.MaintenanceRequestController",
+    "Method": "GenerateBill",
+    "RelativePath": "api/maintenance/bill",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "amount",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.MaintenanceRequestController",
+    "Method": "GetPendingRequests",
+    "RelativePath": "api/maintenance/notifications/{ownerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ownerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.MaintenanceRequestController",
+    "Method": "SubmitMaintenanceRequest",
+    "RelativePath": "api/maintenance/request",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tenantId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "issueDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.MaintenanceRequestController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/maintenance/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OwnerController",
+    "Method": "AddOwnerDocuments",
+    "RelativePath": "api/Owner/{leaseId}/owner-documents",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leaseId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "OwnerSignatureFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerDocumentFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OwnerController",
+    "Method": "GetLeaseAgreements",
+    "RelativePath": "api/Owner/lease-agreements",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OwnerController",
+    "Method": "Login",
+    "RelativePath": "api/Owner/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ownerLoginDTO",
+        "Type": "OwnerLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OwnerController",
+    "Method": "GetMaintenanceRequests",
+    "RelativePath": "api/Owner/maintenance-requests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OwnerController",
+    "Method": "GetNotifications",
+    "RelativePath": "api/Owner/notifications",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OwnerController",
+    "Method": "Register",
+    "RelativePath": "api/Owner/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ownerRegistrationDTO",
+        "Type": "OwnerRegistrationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.PaymentController",
+    "Method": "GetAllPayments",
+    "RelativePath": "api/Payment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.PaymentController",
+    "Method": "AddPayment",
+    "RelativePath": "api/Payment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paymentDto",
+        "Type": "OnlineRentalPropertyManagement.DTOs.PaymentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.PaymentController",
+    "Method": "GetPaymentById",
+    "RelativePath": "api/Payment/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.PaymentController",
+    "Method": "UpdatePayment",
+    "RelativePath": "api/Payment/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "paymentDto",
+        "Type": "OnlineRentalPropertyManagement.DTOs.PaymentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.PaymentController",
+    "Method": "DeletePayment",
+    "RelativePath": "api/Payment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PropertyController",
+    "Method": "GetAllProperties",
+    "RelativePath": "api/Property",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PropertyController",
+    "Method": "AddProperty",
+    "RelativePath": "api/Property",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PropertyName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "State",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Country",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RentAmount",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "AvailabilityStatus",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Amenities",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "VideoFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PropertyController",
+    "Method": "GetPropertyById",
+    "RelativePath": "api/Property/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PropertyController",
+    "Method": "UpdateProperty",
+    "RelativePath": "api/Property/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "PropertyName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "State",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Country",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RentAmount",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "AvailabilityStatus",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Amenities",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "VideoFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PropertyController",
+    "Method": "DeleteProperty",
+    "RelativePath": "api/Property/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PropertyController",
+    "Method": "GetPropertiesByOwnerId",
+    "RelativePath": "api/Property/my-properties",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PropertyController",
+    "Method": "SearchProperties",
+    "RelativePath": "api/Property/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "state",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "country",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.RentalApplicationController",
+    "Method": "GetRentalApplicationById",
+    "RelativePath": "api/RentalApplication/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnlineRentalPropertyManagement.Models.RentalApplication",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.RentalApplicationController",
+    "Method": "GetRentalApplicationsByPropertyId",
+    "RelativePath": "api/RentalApplication/property/{propertyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnlineRentalPropertyManagement.Models.RentalApplication, OnlineRentalPropertyManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.RentalApplicationController",
+    "Method": "UpdateRentalApplicationStatus",
+    "RelativePath": "api/RentalApplication/status/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.RentalApplicationController",
+    "Method": "SubmitRentalApplication",
+    "RelativePath": "api/RentalApplication/submit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rentalApplicationDTO",
+        "Type": "OnlineRentalPropertyManagement.DTOs.RentalApplicationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineRentalPropertyManagement.Controllers.RentalApplicationController",
+    "Method": "GetRentalApplicationsByTenantId",
+    "RelativePath": "api/RentalApplication/tenant/{tenantId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tenantId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnlineRentalPropertyManagement.Models.RentalApplication, OnlineRentalPropertyManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TenantController",
+    "Method": "GetLeaseAgreements",
+    "RelativePath": "api/Tenant/lease-agreements",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TenantController",
+    "Method": "Login",
+    "RelativePath": "api/Tenant/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tenantLoginDTO",
+        "Type": "TenantLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TenantController",
+    "Method": "GetMaintenanceRequests",
+    "RelativePath": "api/Tenant/maintenance-requests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TenantController",
+    "Method": "GetNotifications",
+    "RelativePath": "api/Tenant/notifications",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TenantController",
+    "Method": "Register",
+    "RelativePath": "api/Tenant/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tenantRegistrationDTO",
+        "Type": "TenantRegistrationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

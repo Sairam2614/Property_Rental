@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OnlineRentalPropertyManagement</name>
+    </assembly>
+    <members>
+        <member name="T:OnlineRentalPropertyManagement.Migrations.twokp">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineRentalPropertyManagement.Migrations.twokp.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineRentalPropertyManagement.Migrations.twokp.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineRentalPropertyManagement.Migrations.twokp.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
